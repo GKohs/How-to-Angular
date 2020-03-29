@@ -17,7 +17,7 @@ I'll learn Angular with tutorials or lectures and will probably make a list abou
 ## 3rd step - udemy course
 
 
-# Possible further steps:
+# Possible further steps
 
 ## YouTube Tutorials
 - [Complete Angular 7 Master Detail CRUD with Web API - Part 1](https://youtu.be/R2dOyHJu4a8) by CodAffection.
