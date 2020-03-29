@@ -15,3 +15,16 @@ I'll learn Angular with tutorials or lectures and will probably make a list abou
 - I created a repository for it, you can find it [here](https://github.com/GKohs/Angular-BudgetApp) and you can see the end result [here](https://gkohs.github.io/Angular-BudgetApp/).
 
 ## 3rd step - udemy course
+
+
+# Possible further steps:
+
+## YouTube Tutorials
+- [Complete Angular 7 Master Detail CRUD with Web API - Part 1](https://youtu.be/R2dOyHJu4a8) by CodAffection.
+  - How to design advanced master detail CRUD Operations in Angular 7.
+  - Open detail form in pop dialog using Angular Material.
+  - DB Design for Master Detail with foreign keys.
+  - Enable CORS in Asp.Net Web API.
+  - CRUD Operations on Master Detail in Asp.Net Web API
+  - Retrieve and Display Master Details in Angular 7 with the help of LINQ in Web API.
+  
