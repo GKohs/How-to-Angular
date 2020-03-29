@@ -14,4 +14,4 @@ I'll learn Angular with tutorials or lectures and will probably make a list abou
 - I can recommend. It shows Angular while programming an application and I really enjoyed it.
 - I created a repository for it, you can find it [here](https://github.com/GKohs/Angular-BudgetApp) and you can see the end result [here](https://gkohs.github.io/Angular-BudgetApp/).
 
-## 3rd step - udemy course introduction
+## 3rd step - udemy course
