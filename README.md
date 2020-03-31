@@ -17,6 +17,11 @@ I'll learn Angular with tutorials or lectures and will probably make a list abou
 ## 3rd step - udemy course
 
 
+# Additional informations
+
+## How to get your VS Code project to github
+You can find a tutorial [here](https://youtu.be/Fk12ELJ9Bww).
+
 # Possible further steps
 
 ## YouTube Tutorials
